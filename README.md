@@ -4,7 +4,7 @@ Used [open-source haarascade](https://github.com/opencv/opencv/blob/master/data/
 
 ### Example of Picture Facial Detection Working:
 
-![pic10](https://github.com/donaldheddesheimer/Face-Detector/assets/119540065/8b34bd76-9502-4122-bf36-b0441bbc9769)
+![pic10](https://github.com/donaldheddesheimer/Face-Detector/assets/119540065/b8d373a2-48c0-4848-ac44-4eede31656f1)
 
 ### Executing the Program
 This project is crafted using:
